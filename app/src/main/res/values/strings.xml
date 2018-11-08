@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GoEasy</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="button1">LOGIN</string>
+    <string name="tvSignUp">NEW USER? SIGN UP.</string>
+    <string name="etName">What\'s your name?</string>
+    <string name="name">Name</string>
+    <string name="etEmail">Email</string>
+    <string name="etPassword">Password</string>
+    <string name="button2">SIGN-UP</string>
+    <string name="tvLogin">TextView</string>
+    <string name="tvInfo">No Of Attemp Remaining</string>
+    <string name="button3">LOGOUT</string>
+    <string name="settings">Settings</string>
+    <string name="string_settings" />
+    <string name="logout">Logout</string>
+    <string name="refresh">Refresh</string>
+    <string name="tvForgetPassword">Forget Password?</string>
+    <string name="etPasswordEmail">Email</string>
+    <string name="btnPasswordReset">Password Reset</string>
+</resources>
